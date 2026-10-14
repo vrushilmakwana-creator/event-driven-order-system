@@ -357,6 +357,6 @@ This project helped build practical experience in:
 
 Author
 
-Meet | Vrushil
+Meet | Vrushil 
 
 Backend Developer | Java | Spring Boot | Distributed Systems Enthusiast
